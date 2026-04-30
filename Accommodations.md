@@ -454,7 +454,7 @@ Staying on Miyajima is magical (deer on your doorstep, torii at sunrise), but **
 
 # Hakone
 
-**Trip context:** 5 guys · 1 night (Jun 6 – Jun 7) · arriving by Shinkansen Kyoto → Odawara, then local train/bus into Hakone · departing via Romancecar to Shinjuku · this is the **ryokan + onsen + kaiseki dinner night** — the experience, not just a bed.
+**Trip context:** 5 guys · 1 night (Jun 6 – Jun 7) · arriving by Shinkansen Kyoto → Odawara, then local train/bus into Hakone · departing via **Romancecar** to Shinjuku · this is the **ryokan + onsen + kaiseki dinner night** — the experience, not just a bed.
 
 **Priorities:**
 - Authentic ryokan with onsen (ideally outdoor / rotenburo) and kaiseki dinner
@@ -466,7 +466,76 @@ Staying on Miyajima is magical (deer on your doorstep, torii at sunrise), but **
 
 ---
 
-## 1. Hakone-Yumoto ⭐ Top Pick (value + convenience)
+## What is a ryokan? 🏯
+
+A **traditional Japanese inn** — existed for ~400 years, originally for travelers walking the old Edo-period highways. The defining experience, not a hotel substitute.
+
+**What makes it different from a hotel:**
+- **Tatami floors** — woven straw mat flooring; you take shoes off at the entrance, walk in slippers, take slippers off when stepping on tatami
+- **Futon bedding on the floor** — staff lays it out while you're at dinner, packs it away while you're at breakfast. No Western beds.
+- **Yukata** — light cotton kimono provided to wear around the property, to dinner, to the onsen. Everyone wears it. Looks weird the first hour, normal by hour two.
+- **Communal everything** — shared baths, often shared dining rooms, staff bowing constantly
+- **Service is choreographed** — staff knock, kneel at the doorway, slide the door open, slide it closed. Extremely formal but warm.
+- **Two meals included** — kaiseki dinner + Japanese breakfast, both elaborate
+
+### Kaiseki dinner
+
+The multi-course traditional Japanese meal that comes with most ryokan stays. **8–12 small courses, seasonal, perfectly plated.** Sashimi, grilled fish, simmered vegetables, hot pot, rice course, pickles, dessert. Each course arrives at its own pace. Takes 1.5–2h. **This is half the reason to stay at a ryokan.** Don't book one without kaiseki included — the "stay only" rate misses the point.
+
+### Why this is the right one-night Hakone splurge
+
+Zero ryokan vibe in the rest of your trip (Tokyo/Osaka/Kyoto are all hotels and Airbnbs). Hakone is the **cultural punctuation mark** — the "we slept in old Japan" night. After 11 nights of city chaos, the ryokan is built-in decompression before the Tokyo finale.
+
+---
+
+## What is an onsen? ♨️
+
+**Natural hot spring bath.** Japan sits on volcanic rock, so hot mineral water bubbles up everywhere. Bathing in it is a 1,000+ year ritual.
+
+### The rules (don't skip — locals will glare)
+
+1. **Strip fully naked.** No swimsuits, ever. Non-negotiable.
+2. **Wash thoroughly first** — sit on the little plastic stool, soap up, rinse off completely. The bath itself is for soaking, not cleaning.
+3. **No towels in the water.** You can fold the small towel on your head while soaking — classic look.
+4. **Tattoos:** historically banned (associated with yakuza). Many ryokan still enforce this. Workarounds: cover with skin tape, look for **tattoo-friendly** ryokan, or book a **kashikiri** (private bath) that lets you bypass the rule.
+5. **No phones, no photos.** Naked communal space.
+6. **Genders separated.** Men's side, women's side. Some ryokan have mixed (konyoku) but rare.
+
+### Types of baths
+
+| Type | What it is | Want? |
+|------|-----------|-------|
+| **Sento** | Public bathhouse, regular city water | No — not what you want in Hakone |
+| **Onsen** | Actual mineral hot spring water, with health/skin claims | Yes — minimum bar |
+| **Rotenburo** ⭐ | **Outdoor onsen** | **Top priority — soaking in 40°C water under stars in the mountains** |
+| **Kashikiri** | Private/family bath you reserve for ~45 min | Useful for tattoos or shy first-timers |
+
+**For Hakone:** prioritize a ryokan with **rotenburo on-site**. Many of the better ones have an outdoor mineral bath overlooking the mountains. Bonus if there's a private bath you can reserve.
+
+---
+
+## What is the Romancecar? 🚆
+
+The fancy reserved-seat express train operated by **Odakyu** between **Hakone and Shinjuku**. Despite the name, has nothing to do with romance — it's just Odakyu's branding for their premium tourist express.
+
+**What makes it special:**
+- **Direct** Hakone-Yumoto → Shinjuku, no transfers (~85 min)
+- **Reserved seats only** — book ahead
+- **Front-row "Saloon" seats** on some trains (the GSE 70000 series and VSE 50000 series) — the driver's cabin is upstairs, so passengers sit at the very front with a panoramic forward-facing window. Cool train-nerd experience.
+- **Scenic** — passes Mt. Fuji on clear days
+- **Snack/drink trolley** — beer, sake, ekiben (train bento)
+
+**Why it's on the itinerary:**
+- Jun 7 morning, **Hakone → Shinjuku** is the transfer day from the ryokan to Tokyo
+- With 5 guys + luggage, the alternative is a slower local train with transfers — Romancecar is straight through, comfortable, no luggage hassle
+- Cost: ~¥2,300 per person (~€14) on top of a JR/Hakone pass
+- **Book online via Odakyu's English site or Klook ~1 month ahead** for the front "panorama" seats — those sell out first
+
+---
+
+## Areas to consider
+
+### 1. Hakone-Yumoto ⭐ Top Pick (value + convenience)
 
 **Why it wins:**
 - **Entry gateway to Hakone** — direct Romancecar terminus for Jun 7 departure (no extra transfers with luggage)
@@ -479,7 +548,7 @@ Staying on Miyajima is magical (deer on your doorstep, torii at sunrise), but **
 
 ---
 
-## 2. Gora (scenic upgrade)
+### 2. Gora (scenic upgrade)
 
 **Why consider:**
 - **Higher elevation, mountain views** — forested, more dramatic than Yumoto
@@ -491,7 +560,7 @@ Staying on Miyajima is magical (deer on your doorstep, torii at sunrise), but **
 
 ---
 
-## 3. Miyanoshita (historic)
+### 3. Miyanoshita (historic)
 
 **Why consider:**
 - Historic onsen town — home of the legendary **Fujiya Hotel** (1878, classic Meiji-era architecture)
@@ -503,7 +572,7 @@ Staying on Miyajima is magical (deer on your doorstep, torii at sunrise), but **
 
 ---
 
-## 4. Sengokuhara (luxury retreat)
+### 4. Sengokuhara (luxury retreat)
 
 **Why consider:**
 - **Pampas grass fields + remote mountain setting** — most peaceful area of Hakone
@@ -514,7 +583,7 @@ Staying on Miyajima is magical (deer on your doorstep, torii at sunrise), but **
 
 ---
 
-## 5. Lake Ashi / Moto-Hakone (skip for sleeping)
+### 5. Lake Ashi / Moto-Hakone (skip for sleeping)
 
 Beautiful for the torii-on-water shot and the pirate ship cruise, but **awkward for an overnight** — poor connections to Yumoto/Odawara, not many ryokan. Visit during the day, don't sleep here.
 
@@ -522,14 +591,92 @@ Beautiful for the torii-on-water shot and the pirate ship cruise, but **awkward 
 
 ## Hakone recommendation
 
-**Book a ryokan in Hakone-Yumoto.** For a single night with 5 people and luggage transitions on both sides, Yumoto's directness is worth more than Gora's scenery. Prioritize a ryokan with:
-
-- **Rotenburo (outdoor onsen)** — non-negotiable for the experience
-- **Kaiseki dinner included** — multi-course traditional meal, the other half of the experience
-- **Rooms that actually take groups of 5** — many ryokan max at 2–4 people per room; you may need 2 adjacent tatami rooms
-- **Tattoo policy** (if anyone in the group has tattoos) — some traditional onsen still refuse entry; check or look for private/in-room baths (kashikiri)
+**Book a ryokan in Hakone-Yumoto.** For a single night with 5 people and luggage transitions on both sides, Yumoto's directness is worth more than Gora's scenery.
 
 Upgrade to **Gora** if budget allows and someone is willing to handle the extra transfers for the scenery payoff.
+
+---
+
+## Search criteria
+
+### Hard requirements (non-negotiable)
+
+| # | Requirement | Why |
+|---|-------------|-----|
+| 1 | **Sleeps 5 adult males** | Most ryokan max at 2–4 per room. May need 2 adjacent tatami rooms. |
+| 2 | **Rotenburo (outdoor onsen) on-site** | The whole point. Indoor-only baths are budget tier. |
+| 3 | **Kaiseki dinner + breakfast included** | Half the experience. "Stay-only" rates miss it. |
+| 4 | **Hakone-Yumoto area** preferred | Direct Romancecar terminus = clean Jun 7 departure with luggage |
+| 5 | **Tattoo-friendly OR kashikiri (private bath) available** | Confirm if anyone in the group has tattoos |
+
+### Strong preferences
+
+- **Walking distance from Hakone-Yumoto station** (<15 min walk or free shuttle) — luggage on Jun 6 arrival + Jun 7 departure
+- **English booking confirmation possible** — many ryokan only respond in Japanese
+- **Cancellation policy** — flexible if possible (some are 100% non-refundable 7+ days out)
+- **Mt. Fuji view** — bonus, weather-dependent anyway
+
+### Acceptable trade-offs (only if pricing is significantly better)
+
+- **Gora area** — scenic upgrade, but +30 min and 1–2 transfers from Yumoto with luggage. Worth it for top-tier rotenburo if budget allows.
+- **Miyanoshita** — historic, between Yumoto and Gora, fewer big-group options
+- **Sengokuhara** — luxury territory, but logistically painful for 1 night with luggage
+
+### Budget target
+
+| Tier | Per person, 1 night, kaiseki incl. | Group total (5 ppl) |
+|------|-----------------------------------|---------------------|
+| Budget | €100–140 | €500–700 |
+| **Mid (target)** | **€150–220** | **€750–1,100** |
+| Splurge | €250–400 | €1,250–2,000 |
+
+**Realistic target: €750–1,100 group total.** Below that = old/tired property. Above that = unnecessary for one night.
+
+### Specific properties to check (Hakone-Yumoto, group-capable)
+
+- Tenseien (Hakone Yumoto Onsen Tenseien)
+- Yumoto Fujiya Hotel — Western-style + ryokan hybrid, larger rooms (easier for 5)
+- Hakone Suimeisou
+- Mikawaya Ryokan
+- Hotel Okada
+
+---
+
+## Where to search
+
+For ryokan specifically, Airbnb is weak — search these instead, **in this order**:
+
+1. **Booking.com** — broadest English-language ryokan inventory, good cancellation policies. Filter: Hakone-Yumoto + 5 guests + "ryokan" + "private onsen" or "kaiseki"
+2. **Rakuten Travel** ([travel.rakuten.com](https://travel.rakuten.com)) — Japanese-native platform, surfaces ryokan that don't list on foreign sites; often cheapest. English version exists.
+3. **Japanican** — JTB-owned, ryokan-focused English booking site, strong filtering by onsen type / kaiseki / room style
+4. **Direct on the ryokan website** — sometimes 5–10% cheaper, but English support varies
+
+**Rule:** find the place on Booking, then check Rakuten + direct for the same property. Pricing varies meaningfully across platforms for the same ryokan.
+
+### Search keywords
+
+`Hakone ryokan 5 guests rotenburo kaiseki`
+
+### Booking.com filters
+
+Hakone, "ryokan" property type, 5 guests, "Onsen" amenity, "Free cancellation" if possible.
+
+---
+
+## Message-the-host template
+
+Most ryokan won't take 5 in one room — you'll need to ask:
+
+> Hello, I'm looking to book a stay for 5 adult male friends on the night of June 6, 2026 (1 night). Could you please confirm:
+>
+> 1. Can you accommodate 5 adults? Single room or two adjacent rooms?
+> 2. Is kaiseki dinner + breakfast included in the rate?
+> 3. Is there an outdoor onsen (rotenburo) on the property?
+> 4. Do you accept guests with tattoos? If not, are private baths (kashikiri) available?
+> 5. Total price for 5 guests, 1 night, dinner + breakfast included?
+> 6. Cancellation policy?
+>
+> Thank you!
 
 ---
 
@@ -539,4 +686,6 @@ Upgrade to **Gora** if budget allows and someone is willing to handle the extra 
 - [ ] Confirm kaiseki dinner + breakfast included
 - [ ] Confirm rotenburo (outdoor onsen) on-site
 - [ ] Check tattoo policy / availability of private baths (kashikiri)
-- [ ] Book early — quality Hakone ryokan fill up, especially weekends (Jun 6 is a Saturday)
+- [ ] Cross-check Booking / Rakuten / Japanican for the same property
+- [ ] **Book Romancecar** Hakone-Yumoto → Shinjuku for Jun 7 morning (Odakyu site or Klook, ~1 month ahead, prioritize panorama seats)
+- [ ] **Book ASAP — Jun 6 is a Saturday and we're already ~5 weeks out; quality Hakone ryokan fill up fast on weekends. Don't dither past May 7.**

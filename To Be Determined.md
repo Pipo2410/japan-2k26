@@ -104,3 +104,50 @@ Open decisions, trade-offs, and questions to resolve before (or during) the trip
 **Leaning:** Default to **Strategy #1 (Shoot-and-drop)** on high-severity days, **#4 (Discreet crossbody)** on bar-hop nights, **#3 (Phone-only)** when daytime doesn't justify hauling the camera. This keeps the camera completely out of any real club.
 
 ---
+
+## Tokyo rooftop sauna / onsen — where to slot it in
+
+**Context:** Hakone (Jun 6) gives us the proper traditional ryokan + outdoor onsen night. Separately, Tokyo has a strong urban "sauna/onsen on top of a building" scene that's a different experience — modern, city-view, open till late. Worth fitting in one session as a contrast to Hakone and as decompression mid-Tokyo. Not on the itinerary yet.
+
+**Decision needed:** Which venue + which day to slot it in.
+
+### Venue options
+
+#### A. Times Spa Resta (Ikebukuro)
+- Top floors of a building near Ikebukuro station — outdoor stone baths with city views
+- Most "rooftop" feel of the three
+- Sauna + cold plunge + relaxation lounges; open till ~midnight
+- ~¥3,000, adult-only
+- **Tattoo policy:** strictly enforced — refuse entry
+
+#### B. Spa LaQua (Korakuen / Tokyo Dome)
+- Natural hot spring water drawn from 1,700m underground, multi-floor complex
+- Rooftop "Healing Baden" sauna garden with outdoor lounging
+- Easy from Marunouchi line; open till 9am next day (sleep-in-spa option)
+- **Tattoo policy:** strict checks
+
+#### C. Thermae-Yu (Kabukicho, Shinjuku)
+- Real onsen water trucked in from Nakaizu, **rooftop rotenburo** + multiple saunas
+- **5-min walk from our Ōkubo accommodation** — zero logistics
+- Open till 11am next morning — viable as an after-clubs wind-down
+- **Tattoo policy:** strictly enforced
+
+### Day options (no changes to itinerary, just where it could slot in)
+
+| Day | Slot | Best venue | Why it fits |
+|-----|------|------------|-------------|
+| **Jun 10 (Wed)** | Late afternoon, before Ikebukuro izakayas + karaoke | **Times Spa Resta** | Ikebukuro is already the route — zero detour; sets up a chill night |
+| **Jun 12 (Fri)** | Afternoon, before Tokyo Tower walk + Roppongi | Spa LaQua or Thermae-Yu | Buffer between Shimokitazawa morning and the heavy night |
+| **Jun 8 (Mon)** | After Akihabara, before 8bit Café | Thermae-Yu | Decompresses otaku day; right next to 8bit Café in Shinjuku |
+| Jun 13 (Sat) | Skip — too packed (Imperial Palace + Ginza + Kabukicho finale) | — | — |
+
+### Tattoo caveat (group-wide)
+
+All three venues enforce the no-tattoo rule strictly. If anyone in the group has tattoos:
+- **Cover with skin tape** — works for small/medium tattoos
+- **Tattoo-friendly alternative:** Saunaland Asakusa, or Dogenzaka Kanda Sento — both accept tattoos but lose the rooftop-view angle
+- **Confirm before locking the day** — same check as Hakone
+
+**Leaning:** **Jun 10 at Times Spa Resta**. Best rooftop feel of the three, zero geography compromise (Ikebukuro is already on the day's route), and it pairs naturally with the karaoke wind-down. Thermae-Yu is the strong fallback if Jun 10 doesn't work — walk-from-hotel convenience makes it droppable into almost any Tokyo evening.
+
+---

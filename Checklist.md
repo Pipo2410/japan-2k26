@@ -1,8 +1,8 @@
 # Japan 2026 — Checklist
 
 ## Flights
-- [x] Outbound: Lisbon → Osaka (May 26/27) — €450/person ✓ booked
-- [ ] Return: Tokyo → Lisbon (Jun 14) — target ~€400/person
+- [x] Outbound: Vienna → Singapore → Osaka (May 26 → 27) — Scoot TR 61 + TR 820, dep VIE 10:25 (May 26), arr KIX 14:35 (May 27), conf. YIDN8R — €450/person ✓ booked
+- [x] Return: Tokyo → Shanghai → Budapest (Jun 14 → 15) — China Eastern MU 8632 + MU 8639, dep HND 13:30 (Jun 14), airport change SHA → PVG (~50 km, ~2–3h), arr BUD 08:05 (Jun 15) — €386.48/person (€1,932.38 / 5) ✓ booked
 
 ---
 

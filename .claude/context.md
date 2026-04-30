@@ -5,15 +5,16 @@
 - Interests: gaming (arcades, Round One, hardcore), anime/manga, nightlife, culture, food
 
 ## Dates
-- Depart: ~May 26, 2026
-- Arrive Osaka: May 27, 2026 at 14:30
-- Return flight: June 14, 2026
-- Total: ~18 nights, 19 days
+- Depart Vienna: May 26, 2026 (10:25)
+- Arrive Osaka: May 27, 2026 at 14:35
+- Depart Tokyo: June 14, 2026 (13:30 from HND)
+- Arrive Budapest: June 15, 2026 at 08:05
+- Total: 18 nights in Japan, 19 days door-to-door
 
 ## Flights
-- Outbound (to Osaka): €450/person (already booked)
-- Return target: ~€400/person
-- Total flight budget: ~€900/person
+- Outbound (Vienna → Singapore → Osaka): €450/person ✓ booked — Scoot TR 61 + TR 820, conf. YIDN8R
+- Return (Tokyo HND → Shanghai → Budapest, via PVG airport change): ✓ booked — China Eastern MU 8632 + MU 8639, lands BUD Jun 15 08:05 — €386.48/person (€1,932.38 / 5)
+- Total flight budget: ~€836.48/person (€450 outbound + €386.48 return)
 
 ## Budget
 - Max total per person: €3,000

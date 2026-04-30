@@ -183,8 +183,12 @@
 - Night: back to Shinjuku → **Kabukicho** bar hop, karaoke finale, clubs
 
 ### Jun 14 (Sun) · Departure
-- Check out, train to Narita or Haneda airport
-- Fly home
+- Check out of Tokyo accommodation
+- Train to **Haneda (HND)** — be at airport by ~10:30 for international check-in
+- **13:30 — MU 8632 HND → Shanghai Hongqiao (SHA)**, arrives 15:35 (3h 05m)
+- Airport change **SHA → PVG** (~50 km across Shanghai, allow 2–3h, taxi or maglev+metro); be at Pudong by 23:30
+- **01:50 (Jun 15) — MU 8639 PVG → Budapest (BUD)**, arrives 08:05 (12h 15m)
+- Ground transport BUD → Bratislava / Slovakia
 
 ---
 
@@ -192,4 +196,4 @@
 - [ ] Hakone ryokan
 - [ ] teamLab Borderless (Tokyo)
 - [ ] **Ghibli Museum** — tickets drop May 10 for June; book immediately, sell out fast
-- [ ] Return flight (target ~€400/person)
+- [x] Return flight ✓ booked — China Eastern MU 8632 + MU 8639, Tokyo HND → Shanghai → Budapest BUD (Jun 14 → 15)
